@@ -1,0 +1,7 @@
+CVar nine = 9
+CVar string = "sup"
+CVar meow = true
+
+log(nine)
+log(string)
+log(meow) # Logs "9, sup, 1"
