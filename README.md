@@ -9,4 +9,4 @@ All of the code was almost written by CodePulse (https://www.youtube.com/@CodePu
 
 # How to run
 
-Simple. just run ```shell.py``` and then type ```run("<filename>.fns
+Simple. just run ```shell.py``` and then type ```run("<filename>.fns")```
